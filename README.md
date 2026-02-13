@@ -2,6 +2,9 @@
 
 A minimal React Native Expo app demonstrating how to connect a Solana wallet using the Solana Mobile Wallet Adapter and fetch wallet balance on devnet.
 
+<img src="https://github.com/NeelContractor/ReactNativeExpoWalletAdapter/blob/main/assets/landingPage.jpg" width="25%" height="25%">
+<img src="https://github.com/NeelContractor/ReactNativeExpoWalletAdapter/blob/main/assets/afterConnect.jpg" width="25%" height="25%">
+
 ## Getting Started
 ## Clone repo
 ``` bash

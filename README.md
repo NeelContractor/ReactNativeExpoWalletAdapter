@@ -5,6 +5,10 @@ A minimal React Native Expo app demonstrating how to connect a Solana wallet usi
 <img src="https://github.com/NeelContractor/ReactNativeExpoWalletAdapter/blob/main/assets/landingPage.jpg" width="25%" height="25%">
 <img src="https://github.com/NeelContractor/ReactNativeExpoWalletAdapter/blob/main/assets/afterConnect.jpg" width="25%" height="25%">
 
+
+https://github.com/user-attachments/assets/21fd5bc6-dcdd-4422-b36a-c05da90cae68
+
+
 ## Getting Started
 ## Clone repo
 ``` bash
